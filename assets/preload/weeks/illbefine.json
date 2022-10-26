@@ -1,0 +1,31 @@
+{
+	"storyName": "pibby rtx real",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illbefine",
+	"freeplayColor": [
+		60,
+		20,
+		40
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ill Be Fine",
+			"pssteven",
+			[
+				60,
+				20,
+				40
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}
